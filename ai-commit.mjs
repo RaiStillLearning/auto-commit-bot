@@ -20,7 +20,7 @@ if (!diff.trim()) {
 }
 
 const data = JSON.stringify({
-  model: "deepseek/deepseek-r1:free",
+  model: "deepseek/deepseek-chat-v3-0324",
   messages: [
     {
       role: "user",
@@ -36,7 +36,7 @@ const options = {
   headers: {
     "Content-Type": "application/json",
     Authorization: `Bearer ${API_KEY}`,
-    "HTTP-Referer": "https://github.com/rakha-arkhana/ai-commit",
+    "HTTP-Referer": "https://github.com/RaiStillLearning/auto-commit-bot.git",
     "X-Title": "ai-commit",
   },
 };
