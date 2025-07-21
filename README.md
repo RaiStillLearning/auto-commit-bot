@@ -18,5 +18,5 @@ AI Commit Bot adalah alat otomatis untuk membuat pesan commit Git menggunakan AI
 
 ```bash
 git clone https://github.com/RaiStillLearning/auto-commit-bot.git
-cd ai-commit-bot
-npm install  # atau pip install -r requirements.txt jika versi Python
+cd auto-commit-bot
+npm inatall
