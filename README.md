@@ -14,6 +14,25 @@ AI Commit Bot adalah alat otomatis untuk membuat pesan commit Git menggunakan AI
 
 ---
 
+## Cara test API kamu menggunakan Postman
+
+{
+  "model": "deepseek/deepseek-chat-v3-0324", (sesuaikan dengan model kamu)
+  "messages": [
+    {
+      "role": "user",
+      "content": "halo"
+    }
+  ]
+}
+
+- isi headers dengan Authorization dan Bearer (API kamu)
+- Content-Type Application/json
+- Jika menggunakan API dari openrouter.ai umumnya menggunakan endpoint ini `https://openrouter.ai/api/v1/chat/completions`
+
+---
+
+
 ## 📦 Instalasi
 
 ```bash
