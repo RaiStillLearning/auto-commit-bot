@@ -26,8 +26,8 @@ AI Commit Bot adalah alat otomatis untuk membuat pesan commit Git menggunakan AI
   ]
 }
 
-- isi headers dengan Authorization dan Bearer (API kamu)
-- Content-Type Application/json
+- isi headers dengan KEY: Authorization dan VALUE: Bearer (API kamu)
+- KEY: Content-Type VALUE: Application/json
 - Jika menggunakan API dari openrouter.ai umumnya menggunakan endpoint ini `https://openrouter.ai/api/v1/chat/completions`
 
 ---
