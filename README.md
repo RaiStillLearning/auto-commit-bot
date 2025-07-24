@@ -44,4 +44,4 @@ kamu bisa cukup copy file ai-commit.mjs saja lalu masukkan ``.env`` dengan isi e
 ```bash
 git clone https://github.com/RaiStillLearning/auto-commit-bot.git
 cd auto-commit-bot
-npm inatall
+npm install
