@@ -5,8 +5,7 @@ AI Commit Bot adalah alat otomatis untuk membuat pesan commit Git menggunakan AI
 ---
 
 ## Cara Menggunakan
-kamu bisa cukup copy file ai-commit.mjs saja lalu masukkan ``.env`` dengan isi env (``COMMIT_DEEPSEEK``) kamu bisa merubahnya sesuka hati dan jangan lupa juga untuk ``npm install`` or ``yarn install`` untuk mengunduh dependencies yang di butuhkan untuk
-menjalankan ai-commit bot ini
+kamu bisa cukup copy file ai-commit.mjs saja lalu masukkan ``.env`` dengan isi env (``COMMIT_DEEPSEEK``) kamu bisa merubahnya sesuka hati dan jangan lupa juga untuk ``npm install`` or ``yarn install`` untuk mengunduh dependencies dan menjalankan ai-commit bot ini
 
 
 ---
